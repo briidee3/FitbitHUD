@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "33310250-b2bf-4d99-933b-f60da282f9ae",
+    "appType": "app",
+    "appDisplayName": "FitbitHUD",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "FitbitHUD"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
