@@ -6,4 +6,4 @@ Currently in early development, working on getting streaming video for camera pa
 
 Other use cases are planned, such as an inset terminal GUI, among other things.
 
-Also using this as a project to learn some of the fundamentals of working with Javascript.
+Also using this as a project for me to learn some of the fundamentals of working with Javascript.
