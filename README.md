@@ -23,4 +23,3 @@ Here's the general idea for what I wanna do here:
 > original inspiration for the whole Fitbit HUD thing was because I wanted to be able to "zoom in" my vision in class
 > to get a better view of the board, lol).
 
-*This project is currently on hold (as you may have noticed), however, I do plan to return to it (relatively) soon*
